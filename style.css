@@ -31,7 +31,7 @@ h1{
 
 }
 p{
-    width: 70%;
+    width: ;
     margin-bottom: 40px
 
 }
@@ -67,4 +67,48 @@ p{
 }
 .two-sec img{
     width: 80%;
+}
+.exp-sec{
+    display: flex;
+    margin-bottom: 100px;
+}
+.exp-sec1{
+    text-align: center;
+    margin-bottom: 50px;
+    display:block;
+    width: 100%;
+    align-items: center;
+
+    
+}
+.collam1{
+    width: 50%;
+    background-color: white;
+    margin: 0PX 50px;
+    padding-left: 80px;
+    border-left: solid rgb(13, 197, 230) 10px;
+    box-shadow: 10px 5px 10px 10px rgba(109, 107, 107, 0.199)
+
+}
+.collam2{
+    width: 50%;
+    background-color: white;
+    margin: 0PX 50px;
+    padding-left: 80px;
+    border-left: solid rgb(233, 178, 27) 10px;
+    box-shadow: 10px 5px 10px 10px rgba(109, 107, 107, 0.199)
+
+}
+.collam1 H4{
+    color: orange;
+}
+.collam2 H4{
+    color: orange;
+}
+.foot{
+    width: 100%;
+}
+.copi{
+    text-align: center;
+    font-weight: 200;
 }
