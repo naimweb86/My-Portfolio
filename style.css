@@ -71,6 +71,10 @@ p{
 .exp-sec{
     display: flex;
     margin-bottom: 100px;
+    background-image: url(assets/exp-bg.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    z-index: 9;
 }
 .exp-sec1{
     text-align: center;
@@ -83,16 +87,18 @@ p{
 }
 .collam1{
     width: 50%;
-    background-color: white;
+    
     margin: 0PX 50px;
     padding-left: 80px;
     border-left: solid rgb(13, 197, 230) 10px;
     box-shadow: 10px 5px 10px 10px rgba(109, 107, 107, 0.199)
+    
+    
 
 }
 .collam2{
     width: 50%;
-    background-color: white;
+    
     margin: 0PX 50px;
     padding-left: 80px;
     border-left: solid rgb(233, 178, 27) 10px;
